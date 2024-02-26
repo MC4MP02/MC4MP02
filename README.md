@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate Full-Stack developer with a love for programming. Dedicated to crafting efficient and elegant solutions across the stack. Constantly seeking new challenges and opportunities to expand my skills.</h3>
 
-- 🌱 I’m currently learning **Astro, NodeJS, ...**
+- ✨ In my free time, I enjoy coding personal projects, into the latest techs trends, and contributing to open-source communities.
 
-- 👨‍💻 All of my projects are available at [porfolio on dev...](porfolio on dev...)
-
+- 🎯 Goals: Be a professional Full-Stack Developer
+  
+- 📚 I'm currently learning NodeJs, Astro, Tailwind, ...
+  
 - 📫 How to reach me **maarcampoo2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
