@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Astro, NodeJS, ...**
 
-- 👨‍💻 All of my projects are available at [porfolio on dev...](porfolio on dev...)
+- 👨‍💻 All of my projects are available at (porfolio on dev...)
 
 - 📫 How to reach me **maarcampoo2@gmail.com**
 
