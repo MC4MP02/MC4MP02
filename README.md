@@ -6,8 +6,7 @@
 - 🎯 Goals: Be a professional Full-Stack Developer
   
 - 📚 I'm currently learning NodeJs, Astro, Tailwind, ...
-  
-- 📫 How to reach me **maarcampoo2@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
