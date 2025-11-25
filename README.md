@@ -5,7 +5,7 @@
 
 - 🎯 Goals: Be a professional Full-Stack Developer
   
-- 📚 I'm currently learning NodeJs, Astro, Tailwind, Angular, ...
+- 📚 I'm currently learning new skills to become a better developer
 
 
 <h3 align="left">Connect with me:</h3>
